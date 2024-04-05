@@ -8,4 +8,7 @@ botoes[j].classList.remove("ativo");
 }
 botoes[i].classList.add("ativo");
 }
-}
+
+
+botoes{i}.classList.add("ativo");
+botoes{i}.classList.add("ativo");
